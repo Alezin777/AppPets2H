@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+    <string name="insira_o_nome">Insira o nome</string>
+    <string name="insira_senha">Insira senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+
+</resources>
